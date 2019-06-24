@@ -1,0 +1,31 @@
+*{margin:0;padding:0;}
+.house{width:52px;
+	height:52px;
+	float:left;
+	background:orange;
+	margin:5px 5px;
+    position: absolute;}
+#main{margin:0 auto;
+	  position:relative;
+	  width:50%;
+	  height:200px;
+	  background:silver;
+	  }
+#one{left:0;
+	 top:0;}
+#two{left:33%;
+	 top:0;}
+#three{left:66%;
+	   top:0;}
+#four{left:0;
+	  top:33%;}
+#five{left:33%;
+	  top:33%;}
+#six{left:66%;
+	 top:33%;}
+#seven{left:0;
+		top:66%;}
+#eight{left:33%;
+		top:66%;}
+#nine{left:66%;
+		top:66%;}
