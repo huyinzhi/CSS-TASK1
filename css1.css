@@ -1,0 +1,8 @@
+*{margin:0;padding:0;}
+.house{
+	width:30vw;
+	height:30vw;
+	margin:1.25vw 1.25vw;
+	float:left;
+	background:orange;
+	border-radius:7px;}
