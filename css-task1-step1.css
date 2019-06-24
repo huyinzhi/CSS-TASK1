@@ -1,11 +1,12 @@
 *{margin:0;padding:0;}
-.house{width:52px;
-	height:52px;
+.house{
+	width:30vw;
+	height:30vw;
+	margin:2.5vw 1.25vw;
 	float:left;
 	background:orange;
-	margin:5px 5px;
-    position: absolute;}
-#main{margin:0 auto;
+	border-radius:7vw;}
+/* #main{margin:0 auto;
 	  position:relative;
 	  width:50%;
 	  height:200px;
@@ -28,4 +29,4 @@
 #eight{left:33%;
 		top:66%;}
 #nine{left:66%;
-		top:66%;}
+		top:66%;} */
